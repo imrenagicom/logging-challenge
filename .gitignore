@@ -1,2 +1,4 @@
 solution/
 app.log
+logs/*.log
+.env
